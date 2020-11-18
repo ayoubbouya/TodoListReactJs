@@ -1,5 +1,6 @@
-# Getting Started with Create React App
 ![TodoListApp](https://user-images.githubusercontent.com/23188047/99569601-802ce500-29d9-11eb-8148-401531866466.gif)
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
